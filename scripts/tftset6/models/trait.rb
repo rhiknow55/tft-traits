@@ -6,4 +6,8 @@ class Trait
     @name = name
     @levels = levels
   end
+
+  def to_s
+    @name
+  end
 end

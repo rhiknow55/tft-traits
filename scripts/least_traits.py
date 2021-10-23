@@ -1,2 +1,0 @@
-def least_traits:
-    

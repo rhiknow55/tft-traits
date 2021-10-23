@@ -8,6 +8,15 @@
     ]
   },
   {
+    "id": "blitz",
+    "name": "Blitzcrank",
+    "traits": [
+      "scrap",
+      "protector",
+      "bodyguard"
+    ]
+  },
+  {
     "id": "braum",
     "name": "Braum",
     "traits": [
@@ -21,15 +30,6 @@
     "traits": [
       "enforcer",
       "sniper"
-    ]
-  },
-  {
-    "id": "blitz",
-    "name": "Blitzcrank",
-    "traits": [
-      "scrap",
-      "protector",
-      "bodyguard"
     ]
   },
   {
@@ -105,7 +105,7 @@
     "id": "gangplank",
     "name": "Gangplank",
     "traits": [
-      "mercenery",
+      "mercenary",
       "twinshot"
     ]
   },
@@ -138,7 +138,7 @@
     "id": "illaoi",
     "name": "Illaoi",
     "traits": [
-      "mercenery",
+      "mercenary",
       "bruiser"
     ]
   },
@@ -254,7 +254,7 @@
     "id": "mf",
     "name": "Miss Fortune",
     "traits": [
-      "mercenery",
+      "mercenary",
       "sniper"
     ]
   },
@@ -278,7 +278,7 @@
     "id": "quinn",
     "name": "Quinn",
     "traits": [
-      "mercenery",
+      "mercenary",
       "challenger"
     ]
   },
@@ -336,7 +336,7 @@
     "id": "tahm",
     "name": "Tahm Kench",
     "traits": [
-      "mercenery",
+      "mercenary",
       "glutton",
       "bruiser"
     ]
@@ -374,8 +374,8 @@
     ]
   },
   {
-    "id": "tryndamere",
-    "name": "Tryndamere",
+    "id": "tf",
+    "name": "Twisted Fate",
     "traits": [
       "syndicate",
       "arcanist"
