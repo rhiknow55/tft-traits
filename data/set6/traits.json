@@ -1,0 +1,137 @@
+[
+  {
+    "id": "academy",
+    "name": "Academy",
+    "levels": [ 2, 4, 6, 8 ]
+  },
+  {
+    "id": "arcanist",
+    "name": "Arcanist",
+    "levels": [ 2, 4, 6, 8 ]
+  },
+  {
+    "id": "assassin",
+    "name": "Assassin",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "bodyguard",
+    "name": "Bodyguard",
+    "levels": [ 2, 4, 6, 8 ]
+  },
+  {
+    "id": "bruiser",
+    "name": "Bruiser",
+    "levels": [ 2, 4, 6, 8 ]
+  },
+  {
+    "id": "challenger",
+    "name": "Challenger",
+    "levels": [ 2, 4, 6, 8 ]
+  },
+  {
+    "id": "chemtech",
+    "name": "Chemtech",
+    "levels": [ 3, 5, 7, 9 ]
+  },
+  {
+    "id": "colossus",
+    "name": "Colossus",
+    "levels": [ 1, 2 ]
+  },
+  {
+    "id": "clockwork",
+    "name": "Clockwork",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "cuddly",
+    "name": "Cuddly",
+    "levels": [ 1 ]
+  },
+  {
+    "id": "enchanter",
+    "name": "Enchanter",
+    "levels": [ 2, 3, 4, 5 ]
+  },
+  {
+    "id": "enforcer",
+    "name": "Enforcer",
+    "levels": [ 2, 4 ]
+  },
+  {
+    "id": "glutton",
+    "name": "Glutton",
+    "levels": [ 1 ]
+  },
+  {
+    "id": "imperial",
+    "name": "Imperial",
+    "levels": [ 3, 5 ]
+  },
+  {
+    "id": "innovator",
+    "name": "Innovator",
+    "levels": [ 3, 5, 7 ]
+  },
+  {
+    "id": "mercenary",
+    "name": "Mercenary",
+    "levels": [ 3, 5 ]
+  },
+  {
+    "id": "mutant",
+    "name": "Mutant",
+    "levels": [ 3, 5 ]
+  },
+  {
+    "id": "protector",
+    "name": "Protector",
+    "levels": [ 2, 3, 4, 5 ]
+  },
+  {
+    "id": "scholar",
+    "name": "Scholar",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "scrap",
+    "name": "Scrap",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "sister",
+    "name": "Sister",
+    "levels": [ 2 ]
+  },
+  {
+    "id": "sniper",
+    "name": "Sniper",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "socialite",
+    "name": "Socialite",
+    "levels": [ 1, 2, 3 ]
+  },
+  {
+    "id": "syndicate",
+    "name": "Syndicate",
+    "levels": [ 3, 5, 7 ]
+  },
+  {
+    "id": "transformer",
+    "name": "Transformer",
+    "levels": [ 1 ]
+  },
+  {
+    "id": "twinshot",
+    "name": "Twinshot",
+    "levels": [ 2, 4, 6 ]
+  },
+  {
+    "id": "yordle",
+    "name": "Yordle",
+    "levels": [ 3, 6 ]
+  }
+]
