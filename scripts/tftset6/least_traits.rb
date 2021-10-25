@@ -24,6 +24,7 @@ class LeastTraits
     @memo_teams
   end
 
+  # 1 - 0.005s - 50
   # 2 - 0.05s - 1070
   # 3 - 0.57s - 12,878
   # 4 - 5s - 96,292
